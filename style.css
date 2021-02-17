@@ -1,0 +1,22 @@
+body{
+    background-image: url("/geometric-leaves.png");
+}
+#tab1{
+    background: #a59f9f88;
+    width:350px;
+    height:350px;
+    padding: 75px;
+    margin: 90px auto;
+}
+input{
+    width:290px;
+    height:30px;
+    border-radius: 10px;
+}
+button{
+    width: 100px;
+    height:30px;
+    border-radius: 10px;
+    float:right;
+    margin: 50px auto;
+    background-color: #a59f9f88;
